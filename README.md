@@ -1,6 +1,6 @@
 # 🌙 CodeRaiz
 
-Bem-vindo ao **CodeRaiz**, um site dedicado ao universo gamer!  
+Bem-vindo ao **CodeRaiz**, um site dedicado ao universo gamer! 
 Nosso lema é:  
 > 🎮 *"Todo gamer merece uma nova chance."*
 
@@ -54,37 +54,14 @@ As seções são organizadas de forma intuitiva e responsiva, garantindo boa nav
    ```
 
 3. Execute o arquivo principal (`index.html`) diretamente no navegador.
-
+---
+## 👨‍💻 Autores
+- **Victor Nunes**  
+- **Roger Paiva**  
+- **Guilherme Segolin**  
+- **Pedro Henrique**
 ---
 
-## 🧾 Créditos
 
-Desenvolvido por **[Seu Nome]**  
-Projeto criado como parte de atividade acadêmica para praticar **Front-End Web Development**.
 
----
 
-## 📸 Pré-visualização
-
-### 🏠 Home
-![Home](./src/assets/home.png)
-
-### 📰 Novidades
-![Novidades](./src/assets/novidades.png)
-
-### 📞 Contato
-![Contato](./src/assets/contato.png)
-
-### 🧠 Quiz
-![Quiz](./src/assets/quiz.png)
-
----
-
-## 📬 Contato
-
-📧 **Email:** visubraz@gmail.com  
-💻 **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
-
----
-
-> *"CodeRaiz — Onde cada respawn é uma nova oportunidade!"*
