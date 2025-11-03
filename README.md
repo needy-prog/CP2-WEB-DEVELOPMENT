@@ -62,7 +62,7 @@ As seções são organizadas de forma intuitiva e responsiva, garantindo boa nav
 - **Pedro Henrique**
 ---
 ## 👨‍💻 Linkedin
--- https://www.linkedin.com/posts/guilherme-segolin-3b146030a_ol%C3%A1rede-venho-aqui-apresentar-meu-projeto-activity-7390937701367250944-uAdl 
+https://www.linkedin.com/posts/guilherme-segolin-3b146030a_ol%C3%A1rede-venho-aqui-apresentar-meu-projeto-activity-7390937701367250944-uAdl 
 
 
 
